@@ -1,8 +1,5 @@
 ### Hi there, Here is what I am working on 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...Symfony/php
 - 🌱 I’m currently learning ...Vue js
 - 👯 I’m looking to collaborate on ...Vue js
