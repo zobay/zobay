@@ -8,4 +8,6 @@
 - 📫 How to reach me: ...aszubayr@gmail.com
 - 😄 Pronouns: ... He/Him
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/zobay/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=zobay&color=brightgreen)
