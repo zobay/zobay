@@ -8,4 +8,4 @@
 - 📫 How to reach me: ...aszubayr@gmail.com
 - 😄 Pronouns: ... He/Him
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=zobay&color=brightgreen)
