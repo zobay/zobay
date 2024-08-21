@@ -5,6 +5,7 @@ Proficient across the entire software development life cycle, from requirement g
 So, thanks for your attention, and looking forward to work with you!
 
 Email: aszubayr@gmail.com
+
 Github: https://github.com/zobay
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zobay&count_private=true&show_icons=true&theme=radical)
