@@ -37,7 +37,7 @@ Here's a breakdown of my technical and soft skills:
 
 ## Open Source Contribution
 
-This project is built upon the following open-source tools:
+My open source contribution includes:
 
 * **Laravel Framework:** [Laravel Official Documentation](https://laravel.com/docs) - A powerful PHP framework for building web applications.
 * **Laravel Backpack:** [Laravel Backpack](https://backpackforlaravel.com/) - Simplifies the creation of admin panels for Laravel applications.
