@@ -1,12 +1,11 @@
-### Hi there, Here is what I am working on 👋
+## About
+AWS Certified, Results-driven full-stack developer and open-source enthusiast, specializing in Laravel and Vue.js. Valuable contributor to the Laravel framework and various projects in its ecosystem, showcasing a strong technical skill set. 
+Proficient across the entire software development life cycle, from requirement gathering to active development, client communication, and successful deployment.
 
-- 🔭 I’m currently working on ...Laravel/Symfony/php
-- 🌱 I’m currently learning ...Vue js
-- 👯 I’m looking to collaborate on ...Vue js
-- 🤔 I’m looking for help with ...Open source countribution
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ...aszubayr@gmail.com
-- 😄 Pronouns: ... He/Him
+So, thanks for your attention, and looking forward to work with you!
+
+Email: aszubayr@gmail.com
+Github: https://github.com/zobay
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zobay&count_private=true&show_icons=true&theme=radical)
 
