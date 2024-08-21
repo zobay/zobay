@@ -2,7 +2,7 @@
 
 ### Professional Certifications 
 
-**- AWS Certified Cloud Practitioner.**
+** - AWS Certified Cloud Practitioner.**
 
 ## About
 AWS Certified, Results-driven full-stack developer and open-source enthusiast, specializing in Laravel and Vue.js. Valuable contributor to the Laravel framework and various projects in its ecosystem, showcasing a strong technical skill set. 
