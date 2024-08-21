@@ -1,7 +1,7 @@
 ### AWS Certified | Full-Stack Developer | Laravel & Vue.js Enthusiast | Laravel Contributor
 
 
-![AWS Certified Cloud Practitioner](https://github.com/zobay/zobay/blob/main/unnamed.png)
+![AWS Certified Cloud Practitioner](https://raw.githubusercontent.com/zobay/zobay/main/aws.png)
 
 ## About
 AWS Certified, Results-driven full-stack developer and open-source enthusiast, specializing in Laravel and Vue.js. Valuable contributor to the Laravel framework and various projects in its ecosystem, showcasing a strong technical skill set. 
