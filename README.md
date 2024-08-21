@@ -35,13 +35,6 @@ Here's a breakdown of my technical and soft skills:
 * Single Page Applications (SPA)
 * Deployment
 
-**Note:**
-
-* I replaced some characters that might not render well in Markdown, like the non-breaking space (` `) with regular spaces.
-* I used consistent formatting (hyphens for technical skills sections, bullet points for soft skills and miscellaneous) for better readability.
-
-This formatted section will present your skills clearly and concisely in your README.md file.
-
 
 Email: aszubayr@gmail.com
 
