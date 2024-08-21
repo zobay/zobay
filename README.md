@@ -2,7 +2,9 @@
 
 ### Professional Certifications 
 
-- <img src="https://github.com/zobay/zobay/blob/main/unnamed.png?raw=true" width="100" alt="AWS Certified Cloud Practitioner"> **AWS Certified Cloud Practitioner.**
+<img src="https://github.com/zobay/zobay/blob/main/unnamed.png?raw=true" width="100" alt="AWS Certified Cloud Practitioner">
+
+- **AWS Certified Cloud Practitioner.**
 
 ## About
 AWS Certified, Results-driven full-stack developer and open-source enthusiast, specializing in Laravel and Vue.js. Valuable contributor to the Laravel framework and various projects in its ecosystem, showcasing a strong technical skill set. 
