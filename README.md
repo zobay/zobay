@@ -1,4 +1,8 @@
 ### AWS Certified | Full-Stack Developer | Laravel & Vue.js Enthusiast | Laravel Contributor
+
+### Professional Certifications 
+
+* AWS Certified Cloud Practitioner. *
 ## About
 AWS Certified, Results-driven full-stack developer and open-source enthusiast, specializing in Laravel and Vue.js. Valuable contributor to the Laravel framework and various projects in its ecosystem, showcasing a strong technical skill set. 
 Proficient across the entire software development life cycle, from requirement gathering to active development, client communication, and successful deployment.
