@@ -39,7 +39,8 @@ Here's a breakdown of my technical and soft skills:
 
 My open source contribution includes:
 
-* **Laravel Framework:** [Laravel Official Documentation](https://laravel.com/docs) - A powerful PHP framework for building web applications.
+* **Laravel Framework:** [Laravel Official Documentation](https://laravel.com) - A powerful PHP framework for building web applications.
+* **Laravel Official Documentation :** [Laravel Official Documentation](https://laravel.com/docs) - The official documentation for Laravel.
 * **Laravel Backpack:** [Laravel Backpack](https://backpackforlaravel.com/) - Simplifies the creation of admin panels for Laravel applications.
 * **Laravel Filament:** [Laravel Filament](https://filament.laravel.com/) - A TALL stack package for building beautiful and functional admin panels.
 
