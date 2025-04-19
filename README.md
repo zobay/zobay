@@ -21,8 +21,8 @@ Here's a breakdown of my technical and soft skills:
 * **Concepts & Practices:** Unit Testing, Clean Code, SOLID Principles, Database Design, API Design
 
   ## Experience
-  - Lead a small team, taking technical decisions,  doing task delegation, sprint planning, code review, reporting to the product owner.
-  - Engineered  a global Learning Management System (LMS)  throughout the entire software development life cycle, from requirement analysis and database design to production deployment to Azure using GitHub Actions within multi-tenant and layered architecture.
+- Lead a small team, taking technical decisions,  doing task delegation, sprint planning, code review, reporting to the product owner.
+- Engineered  a global Learning Management System (LMS)  throughout the entire software development life cycle, from requirement analysis and database design to production deployment to Azure using GitHub Actions within multi-tenant and layered architecture.
 - Integrated Meilisearch improving UX and query time by 30%.
 - Automated Stripe, PayPal, and multiple payment gateways using the Factory Pattern, reducing manual intervention by 80%, managed production deployment process for long term. 
 - Optimized database queries, reducing execution time from several seconds to milliseconds, boosting performance by 80%.
